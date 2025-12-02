@@ -1,2 +1,2 @@
-# react-mario-side-scroller
-A simple Mario-style side-scrolling game built with React.js. It runs in the browser, uses an HTML canvas for drawing, and includes basic movement, jumping, enemies, coins, and smooth camera scrolling. The project started on 9 September 2025 and was completed within the same month.
+react-mario-side-scroller
+A basic Mario-like sidescroller made using React.js. This one works right inside your browser, relies on an HTML canvas to render stuff, features straightforward controls - like moving around, leaping over gaps - with baddies to dodge, coins to grab, plus a fluid follow-along view that shifts smoothly as you go. Development kicked off September 9th, 2025, wrapping up before October rolled in.
